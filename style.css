@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+
+body h1{
+    color: orangered;
+    background-color: black;
+}
+
+body h2{
+    color: blue;
+    background-color: antiquewhite;
+}
+
+p{
+    color: grey;
+}
+ body ul{
+    color: red;
+ }
+ body ol{
+    color: red;
+ }
